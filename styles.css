@@ -1,0 +1,24 @@
+body {
+    background-color: #d1fdbf;
+}
+
+.Adidas-Intro{
+    margin: 20px;
+    text-align: center;
+}
+
+
+h1 {
+    color: #df0101;
+}
+
+/* A una clase le podemos dar el nombre que queramos, de preferencia alusivo a lo que haremos */
+
+.encabezado {
+    color: #000000;
+    text-align:center;
+}
+
+.img-adidas-intro{
+    border-radius:50px;
+}

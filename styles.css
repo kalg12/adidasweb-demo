@@ -22,3 +22,18 @@ h1 {
 .img-adidas-intro{
     border-radius:50px;
 }
+
+/* Estilos para la sección de productos */
+.Adidas-Products{
+    background-color:#fff;
+}
+
+.Adidas-Products img{
+    width:200px;
+    height: 200px;
+}
+
+.Adidas-Products img:hover {
+    width:250px;
+    height: 250px;
+}

@@ -25,6 +25,7 @@ h1 {
 
 /* Estilos para la sección de productos */
 .Adidas-Products{
+    display: flex;
     background-color:#fff;
 }
 
